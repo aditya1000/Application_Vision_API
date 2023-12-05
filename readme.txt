@@ -5,17 +5,12 @@ Application OPENAI Vision API
 
 Prerequisites
 
-Python (version X.X or later)
-pip (usually comes with Python)
+Python
 Virtual environment (optional but recommended)
 Installing
 A step-by-step series of examples that tell you how to get a development environment running:
 
-Clone the repository:
-
-Bash
-    git clone https://github.com/yourusername/yourproject.git
-    cd yourproject
+Clone the repository
 
 Create a virtual environment (optional):
 
